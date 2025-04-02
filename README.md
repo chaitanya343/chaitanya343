@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaitanya343
 - 👀 I’m interested in solving real world problems
-- 🌱 I’m currently learning Kubernetes and AWS
+- 🌱 I’m currently learning React Native and GoLang
 - 💞️ I’m looking to collaborate on any exciting open source projects
 - 📫 How to reach me `linkedin.com/in/cp343/`
 
